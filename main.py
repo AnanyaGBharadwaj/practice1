@@ -1,2 +1,2 @@
-print(len("Ananya"))
-print("Hello")
+name=imput("Enter your name")
+print("Hello",name)
